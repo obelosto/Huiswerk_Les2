@@ -29,6 +29,7 @@ body > div{
     flex-direction: row;
     justify-content: space-around;
     flex-basis: 20%;
+    margin: 0;   
 }
 .four{
     justify-content: center;
